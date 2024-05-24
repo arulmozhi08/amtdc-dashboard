@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My project description",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.1.4",
+    "webpack-cli": "^4.2.0"
+  }
+}
+
